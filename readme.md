@@ -2,4 +2,4 @@
 
 URL:https://www.kaggle.com/competitions/california-house-prices/
 
-Here's an MLP implementiton of this Kaggle competition.
+A trial as a beginner of the deep learning. Here's an MLP implementiton of this Kaggle competition.
